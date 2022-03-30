@@ -1,5 +1,5 @@
-# HTMLy ben
-Tactile theme by Jason Long, Dirmanhana ported to HTMLy.
+# Theme for HTMLy,
+ben theme by Jason Long, Dirmanhana ported to HTMLy.
 
 ## Installations 
  -  Upload and extract the zip file into themes directory.
